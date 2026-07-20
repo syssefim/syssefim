@@ -1,4 +1,5 @@
-## Hello there 👋
+<!--## Hello there 👋-->
+<img width="498" height="227" alt="star-wars-obi-wan-kenobi" src="https://github.com/user-attachments/assets/2579da1f-b409-4c04-8749-2e28bb177f58" />
 
 <!--
 **syssefim/syssefim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
