@@ -5,7 +5,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,flask,postgres,mongodb,redis,sqlite,supabase,aws,docker,git,github,linux,vscode,figma,eclipse" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,flask,postgres,mongodb,redis,sqlite,supabase,aws,docker,git,github,linux,vscode,figma,eclipse" />
 
 
 </div>
