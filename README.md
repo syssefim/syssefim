@@ -10,6 +10,6 @@
 <br>
 
 <!-- Row 2: Remaining Skill Icons + AI Models -->
-<img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,figma,eclipse" />&nbsp;<img width="48" height="48" alt="DeepSeek" src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=48" />&nbsp;<img width="48" height="48" alt="Gemini" src="https://www.google.com/s2/favicons?domain=gemini.google.com&sz=48" />&nbsp;<img width="48" height="48" alt="Claude" src="https://www.google.com/s2/favicons?domain=claude.ai&sz=48" />&nbsp;<img width="48" height="48" alt="Cursor" src="https://www.google.com/s2/favicons?domain=cursor.com&sz=48" />&nbsp;<img width="48" height="48" alt="ChatGPT" src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=48" />
+<img src="https://skillicons.dev/icons?i=github,linux,raspberrypi,vscode,visualstudio,figma,eclipse" />&nbsp;<img width="48" height="48" alt="DeepSeek" src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=48" />&nbsp;<img width="48" height="48" alt="Gemini" src="https://www.google.com/s2/favicons?domain=gemini.google.com&sz=48" />&nbsp;<img width="48" height="48" alt="Claude" src="https://www.google.com/s2/favicons?domain=claude.ai&sz=48" />&nbsp;<img width="48" height="48" alt="Cursor" src="https://www.google.com/s2/favicons?domain=cursor.com&sz=48" />&nbsp;<img width="48" height="48" alt="ChatGPT" src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=48" />
 
 </div>
