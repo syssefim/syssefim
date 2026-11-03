@@ -4,12 +4,12 @@
 
 <br><br>
 
-<!-- Row 1: First 15 Skill Icons -->
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,flask,postgres,mongodb,redis,sqlite,supabase,aws,docker,git" />
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,lua,flask,postgres,mongodb,redis,sqlite,supabase,aws,docker" />
 
 <br>
 
-<!-- Row 2: Remaining Skill Icons + AI Models -->
-<img src="https://skillicons.dev/icons?i=github,linux,raspberrypi,vscode,visualstudio,figma,eclipse" />&nbsp;<img width="48" height="48" alt="DeepSeek" src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=48" />&nbsp;<img width="48" height="48" alt="Gemini" src="https://www.google.com/s2/favicons?domain=gemini.google.com&sz=48" />&nbsp;<img width="48" height="48" alt="Claude" src="https://www.google.com/s2/favicons?domain=claude.ai&sz=48" />&nbsp;<img width="48" height="48" alt="Cursor" src="https://www.google.com/s2/favicons?domain=cursor.com&sz=48" />&nbsp;<img width="48" height="48" alt="ChatGPT" src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=48" />
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=git,github,linux,raspberrypi,vscode,visualstudio,figma,eclipse" />&nbsp;<img width="48" height="48" alt="DeepSeek" src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=48" />&nbsp;<img width="48" height="48" alt="Gemini" src="https://www.google.com/s2/favicons?domain=gemini.google.com&sz=48" />&nbsp;<img width="48" height="48" alt="Claude" src="https://www.google.com/s2/favicons?domain=claude.ai&sz=48" />&nbsp;<img width="48" height="48" alt="Cursor" src="https://www.google.com/s2/favicons?domain=cursor.com&sz=48" />&nbsp;<img width="48" height="48" alt="ChatGPT" src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=48" />
 
 </div>
